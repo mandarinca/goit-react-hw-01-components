@@ -1,21 +1,7 @@
 [
-  {
-    "id": 1,
-    "title": "accusamus beatae ad facilis cum similique qui sunt",
-    "url": "https://via.placeholder.com/600/92c952",
-    "thumbnailUrl": "https://via.placeholder.com/150/92c952"
-  },
-  {
-
-    "id": 2,
-    "title": "reprehenderit est deserunt velit ipsam",
-    "url": "https://via.placeholder.com/600/771796",
-    "thumbnailUrl": "https://via.placeholder.com/150/771796"
-  },
-  {
-    "id": 3,
-    "title": "officia porro iure quia iusto qui ipsa ut modi",
-    "url": "https://via.placeholder.com/600/24f355",
-    "thumbnailUrl": "https://via.placeholder.com/150/24f355"
-  }
+  { "id": "id-1", "label": ".docx", "percentage": 22 },
+  { "id": "id-2", "label": ".pdf", "percentage": 4 },
+  { "id": "id-3", "label": ".mp3", "percentage": 17 },
+  { "id": "id-4", "label": ".psd", "percentage": 47 },
+  { "id": "id-5", "label": ".pdf", "percentage": 10 }
 ]
